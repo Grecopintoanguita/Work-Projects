@@ -9,3 +9,5 @@ Current Projects:
 [Panel Replacement](https://github.com/Grecopintoanguita/Work-Projects/blob/master/PanelReplacement/README.MD "Panel Replacement")
 
 [Line Warmer Troubleshooting](https://github.com/Grecopintoanguita/Work-Projects/tree/master/Warmer "Warmer Troubleshooting")
+
+[Line Oven Blower Replacement](https://github.com/Grecopintoanguita/Work-Projects/blob/master/Oven%20motor%20troubleshooting%2010_22_17.pdf "Line Oven Blower Replacement")
