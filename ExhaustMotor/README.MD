@@ -1,4 +1,4 @@
-# Exhaust system for restaurant troubleshoot
+# Exhaust system for restaurant troubleshooting
 The exhaust system used on the line containing grills and fryers 
 was down. To troubleshoot, the exhaust fan on top of the roof 
 was replaced.
