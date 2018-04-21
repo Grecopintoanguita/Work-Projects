@@ -1,4 +1,4 @@
-#Panel Replacement
+# Panel Replacement
 An electrical panel in a household was to be changed,
 panel was 20+ years old, replaced with SquareD panel.
 
