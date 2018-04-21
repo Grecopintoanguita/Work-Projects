@@ -1,4 +1,4 @@
-# Warmer in restaurant Troubleshooting
+# Line Warmer Troubleshooting
 Warmer in line not working, checked infinity switch 
 first which was okay, then checked and replaced
 element.
