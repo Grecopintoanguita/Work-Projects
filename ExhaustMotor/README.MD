@@ -6,7 +6,7 @@ was replaced.
 ![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/ExhaustOldMotor.JPG "Old motor not working")
 
 
-First the switch, and contactor was checked, both were working.
+First, the switch and contactor were inspected, both were fine.
 Then the exhaust fan on the roof was checked. Power was going to
 motor, however it was not turning, could hear noise from fan.
 
