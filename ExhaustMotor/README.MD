@@ -1,6 +1,6 @@
 # Exhaust system for restaurant troubleshooting
 The exhaust system used in the line containing grills and fryers 
-was down. To troubleshoot, the exhaust fan on top of the roof 
+was down. To troubleshoot, the exhaust fan motor on top of the roof 
 was replaced.
 
 ![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/ExhaustOldMotor.JPG "Old motor not working")
