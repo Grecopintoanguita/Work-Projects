@@ -20,7 +20,7 @@ The completed project can be seen below, where High Hats and RGB LEDs have been 
 
 ### High Hats 
 
-1. Power was tapped from dinnig lighting, which included dimmer. 
+1. Power was tapped from dinig lighting, which included dimmer. 
 
 ![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/LightingPower.jpg "Power Found")
 
