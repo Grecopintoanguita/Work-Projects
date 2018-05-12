@@ -4,6 +4,8 @@ I performed while working in Advance Pinto Maintenance Inc.
 
 Current Projects:
 
+[RGB LED and High Hat Installation](https://github.com/Grecopintoanguita/Work-Projects/tree/master/LightingInstallation "RBG LED and High Hat Installation")
+
 [Exhaust Troubleshooting](https://github.com/Grecopintoanguita/Work-Projects/tree/master/ExhaustMotor "Exhaust Troubleshooting")
 
 [Panel Replacement](https://github.com/Grecopintoanguita/Work-Projects/blob/master/PanelReplacement/README.MD "Panel Replacement")
