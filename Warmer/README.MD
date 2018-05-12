@@ -1,7 +1,6 @@
 # Line Warmer Troubleshooting
-Warmer in line not working, checked infinity switch 
-first which was okay, then checked and replaced
-element.
+Warmer in line was not working, inspected infinity switch 
+and element, infinity switch was fine, element was replaced.
 
 ![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/WarmerInfiniteSwitch.JPG "Infinite switch working")
 
