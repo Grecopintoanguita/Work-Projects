@@ -32,3 +32,7 @@ Additionally, LED integrated swivel trim was bought in conjuction with cans (11 
 3. After runnig MC whips, cans were installed and connected. All MC whips attached to metal frame above to avoid toughing ceiling tiles or grid.
 
 ![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/LightingHighHatInstallation.jpg "Cans installed")
+
+Additional angle showing finished product.
+
+![alt text](https://github.com/Grecopintoanguita/Work-Projects/blob/master/images/Lighting.jpg "Close up of final project")
